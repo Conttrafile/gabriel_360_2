@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: a10df983568f049fea96c8370511c5fa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cilindro.001
+    100002: Cilindro.002
+    100004: Cilindro.003
+    100006: Cilindro.004
+    100008: Cilindro_dupli.001
+    100010: Cilindro_dupli.001|Cilindro.001|Dupli|
+    100012: Cilindro_dupli.002
+    100014: Cilindro_dupli.002|Cilindro.002|Dupli|
+    100016: Cilindro_dupli.003
+    100018: Cilindro_dupli.003|Cilindro.003|Dupli|
+    100020: Cilindro_dupli.003|Cilindro.004|Dupli|
+    100022: //RootNode
+    400000: Cilindro.001
+    400002: Cilindro.002
+    400004: Cilindro.003
+    400006: Cilindro.004
+    400008: Cilindro_dupli.001
+    400010: Cilindro_dupli.001|Cilindro.001|Dupli|
+    400012: Cilindro_dupli.002
+    400014: Cilindro_dupli.002|Cilindro.002|Dupli|
+    400016: Cilindro_dupli.003
+    400018: Cilindro_dupli.003|Cilindro.003|Dupli|
+    400020: Cilindro_dupli.003|Cilindro.004|Dupli|
+    400022: //RootNode
+    2100000: No Name
+    2100002: torch_cycles
+    2100004: fire_cycles
+    2300000: Cilindro.001
+    2300002: Cilindro.002
+    2300004: Cilindro.003
+    2300006: Cilindro.004
+    2300008: Cilindro_dupli.001
+    2300010: Cilindro_dupli.001|Cilindro.001|Dupli|
+    2300012: Cilindro_dupli.002
+    2300014: Cilindro_dupli.002|Cilindro.002|Dupli|
+    2300016: Cilindro_dupli.003
+    2300018: Cilindro_dupli.003|Cilindro.003|Dupli|
+    2300020: Cilindro_dupli.003|Cilindro.004|Dupli|
+    3300000: Cilindro.001
+    3300002: Cilindro.002
+    3300004: Cilindro.003
+    3300006: Cilindro.004
+    3300008: Cilindro_dupli.001
+    3300010: Cilindro_dupli.001|Cilindro.001|Dupli|
+    3300012: Cilindro_dupli.002
+    3300014: Cilindro_dupli.002|Cilindro.002|Dupli|
+    3300016: Cilindro_dupli.003
+    3300018: Cilindro_dupli.003|Cilindro.003|Dupli|
+    3300020: Cilindro_dupli.003|Cilindro.004|Dupli|
+    4300000: Cilindro_dupli.001
+    4300002: Cilindro.001
+    4300004: Cilindro_dupli.002
+    4300006: Cilindro_dupli.003
+    4300008: Cilindro_dupli.003|Cilindro.004|Dupli|
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 9989dcb67d1b045d39286d95c13a5170, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fire_cycles
+    second: {fileID: 2100000, guid: 8d0e0aca416174e78ac05d187ff63793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: torch_cycles
+    second: {fileID: 2100000, guid: 7135d9eb3010b42d0b7dc0bc28661af2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
